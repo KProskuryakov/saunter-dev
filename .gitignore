@@ -3,3 +3,7 @@ dist
 public/client-bundle.js
 serve
 saunter-dev.tar.gz
+dist-newstyle
+.spago
+.purs-repl
+output
